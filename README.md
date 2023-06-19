@@ -24,7 +24,6 @@ Se você me achou interessante, quer trocar uma idéia ou tem uma proposta de tr
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JonatasnCosta&show_icons=true&theme=yeblu)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JonatasnCosta&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasnCosta&layout=compact)
 
 
