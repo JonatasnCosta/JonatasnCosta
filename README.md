@@ -22,8 +22,7 @@ App Optical Tabelas: https://play.google.com/store/apps/details?id=com.jonataspr
 
 Se você me achou interessante, quer trocar uma idéia ou tem uma proposta de trabalho, manda uma mensagem.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JonatasnCosta)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?JonatasnCosta=anuraghazra&theme=dark&show_icons=true)
 
 
 
