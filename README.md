@@ -22,9 +22,28 @@ App Optical Tabelas: https://play.google.com/store/apps/details?id=com.jonataspr
 
 Se você me achou interessante, quer trocar uma idéia ou tem uma proposta de trabalho, manda uma mensagem.
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=JonatasnCosta&show_icons=true&theme=yeblu)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasnCosta&layout=compact&show_icons=true&theme=yeblu)
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Minhas Estatísticas do GitHub</title>
+  <style>
+    .github-stats {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="github-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JonatasnCosta&show_icons=true&theme=yeblu" alt="SUAS estatísticas do GitHub">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasnCosta&layout=compact&show_icons=true&theme=yeblu" alt="Linguagens mais utilizadas">
+  </div>
+</body>
+</html>
 
 
 
