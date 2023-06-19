@@ -48,7 +48,7 @@ Se você me achou interessante, quer trocar uma idéia ou tem uma proposta de tr
 
 ##
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jonatasncosta/)<a href = "mailto:jonathanevescosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Jonatas_nCosta)<a href="mailto:https://github.com/JonatasnCosta/JonatasnCosta/blob/master/JonatasCosta_public_key.gpg?subject=PGP%20Key">
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jonatasncosta/)<a href = "mailto:jonathanevescosta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Jonatas_nCosta)<a href="https://github.com/JonatasnCosta/JonatasnCosta/blob/master/JonatasCosta_public_key.gpg?subject=PGP%20Key">
   <img src="https://img.shields.io/badge/PGP%20Key-%2300C853.svg?&style=for-the-badge&logo=protonmail&logoColor=white" alt="PGP Key" />
 </a>
  
