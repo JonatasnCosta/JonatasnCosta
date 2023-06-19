@@ -36,7 +36,7 @@ Se você me achou interessante, quer trocar uma idéia ou tem uma proposta de tr
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joni-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="NestJS" height="30" width="40" src="https://commons.wikimedia.org/wiki/File:NestJS.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://nestjs.com/img/logo_text.svg">
   <img align="center" alt="Joni-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
