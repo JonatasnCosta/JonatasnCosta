@@ -25,17 +25,6 @@ Se você me achou interessante, quer trocar uma idéia ou tem uma proposta de tr
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Minhas Estatísticas do GitHub</title>
-  <style>
-    .github-stats {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      padding: 20px;
-      border: 1px solid #ccc;
-      border-radius: 5px;
-    }
-  </style>
 </head>
 <body>
   <div class="github-stats">
