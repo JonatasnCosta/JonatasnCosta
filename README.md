@@ -2,14 +2,14 @@
 
 - 🔭 Atualmente estou em busca de recolocação no mercado de desenvolvimento de software júnior.
 - 💻 Hoje Trabalho com back-end.
-- 🌱 Atualmente estou aprimorando meu conhecimento em  TypeScript|NestJS|NodeJS|JavaScript.    
+- 🌱 Atualmente estou aprimorando meu conhecimento em  TypeScript | NestJS | JavaScript| NodeJS.   
 - 👯 Estou procurando colaborar em projetos que me desafiam.
 - 🤔 Estou procurando ajuda em TypeScript|NestJS.
-- 💬 Pergunte-me sobre jonathanevescosta@gmail.com
+- 💬 Pergunte-me sobre jonathanevescosta@gmail.com 
 - 🔥 PGP public key 98A3 05EF 98CF CFC2
-- 🇧🇷 Idioma nativo
-- 🇺🇸 Inglês Técnico  
-- 😄 Pronomes: ele/dele
+- 🇧🇷 Idioma nativo.
+- 🇺🇸 Inglês Técnico.
+- 😄 Pronomes: ele/dele.
 - ⚡ Curiosidade: Gosto de aprender instrumentos musicais, gosto ler até porque a vida não é feita só de livros técnicos, amo o mar e minha família.
 
 Tenho o prazer de demonstrar minhas habilidades para a função de Desenvolvedor Backend NestJs. Com mais de 2 anos de experiência no framework, estou confiante em minha capacidade de contribuir com sua equipe e ajudar a impulsionar mais projetos.
