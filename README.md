@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou em busca de recolocação no mercado de desenvolvimento de software júnior.
 - 💻 Hoje Trabalho com back-end.
-- 🌱 Atualmente estou aprimorando meu conhecimento em  TypeScript | NestJS | JavaScript| NodeJS.   
+- 🌱 Atualmente estou aprimorando meu conhecimento em  TypeScript | NestJS | JavaScript | NodeJS.   
 - 👯 Estou procurando colaborar em projetos que me desafiam.
 - 🤔 Estou procurando ajuda em TypeScript|NestJS.
 - 💬 Pergunte-me sobre jonathanevescosta@gmail.com 
