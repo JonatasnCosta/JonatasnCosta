@@ -5,7 +5,7 @@
 - 🌱 Atualmente estou aprimorando meu conhecimento em  TypeScript | NestJS | JavaScript | NodeJS.   
 - 👯 Estou procurando colaborar em projetos que me desafiam.
 - 🤔 Estou procurando ajuda em TypeScript|NestJS.
-- 💬 Pergunte-me sobre jonathanevescosta@gmail.com 
+- 💬 Pergunte-me sobre jonatasprogrammer@proton.me
 - 🔥 PGP public key 98A3 05EF 98CF CFC2
 - 🇧🇷 Idioma nativo.
 - 🇺🇸 Inglês Técnico.
