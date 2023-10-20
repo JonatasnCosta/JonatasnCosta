@@ -9,7 +9,6 @@
 - 🔥 PGP public key 98A3 05EF 98CF CFC2
 - 🇧🇷 Idioma nativo.
 - 🇺🇸 Inglês Técnico.
-- 😄 Pronomes: ele/dele.
 - ⚡ Curiosidade: Gosto de aprender instrumentos musicais, gosto ler até porque a vida não é feita só de livros técnicos, amo o mar e minha família.
 
 Tenho o prazer de demonstrar minhas habilidades para a função de Desenvolvedor Backend NestJs. Com mais de 2 anos de experiência no framework, estou confiante em minha capacidade de contribuir com sua equipe e ajudar a impulsionar mais projetos.
