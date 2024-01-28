@@ -1,14 +1,15 @@
 Hello! My name is Jonatas Costa
 
-🔭 I'm currently looking for a job as a junior back-end software developer.
-💻 Today I work in sales.
-🌱 I'm currently improving my knowledge of TypeScript | NestJS | Database.
-👯 I'm looking to collaborate on projects that challenge me.
-🤔 I'm looking for help in TypeScript|NestJS.
-💬 Ask me at jonathanevescosta@gmail.com
-🔥 PGP public key 98A3 05EF 98CF CFC2
-🇧🇷 Native language.
-🇺🇸 Technical English.
+🔭  I'm currently looking for a job as a junior back-end software developer.
+💻  Today I work in sales.
+🌱  I'm currently improving my knowledge of TypeScript | NestJS | Database.
+👯  I'm looking to collaborate on projects that challenge me.
+🤔  I'm looking for help in TypeScript|NestJS.
+💬  Ask me at jonathanevescosta@gmail.com
+🔥  PGP public key 98A3 05EF 98CF CFC2
+🇧🇷  Native language.
+🇺🇸  Technical English.
+
 ⚡ Curiosity: I like learning musical instruments, I like reading because life isn't just about technical books, I love the sea and my family.
 I am pleased to demonstrate my skills for the role of NestJs Backend Developer. With over 2 years of experience in the framework, I am confident in my ability to contribute to your team and help drive more projects forward.
 
