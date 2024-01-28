@@ -1,23 +1,22 @@
- Olá! me chamo Jonatas Costa
+Hello! My name is Jonatas Costa
 
-- 🔭 Atualmente estou em busca de recolocação no mercado como desenvolvedor de software back-end  júnior.
-- 💻 Hoje Trabalho com vendas.
-- 🌱 Atualmente estou aprimorando meu conhecimento em  TypeScript | NestJS | Banco de dados.   
-- 👯 Estou procurando colaborar em projetos que me desafiam.
-- 🤔 Estou procurando ajuda em TypeScript|NestJS.
-- 💬 Pergunte-me sobre jonathanevescosta@gmail.com
-- 🔥 PGP public key 98A3 05EF 98CF CFC2
-- 🇧🇷 Idioma nativo.
-- 🇺🇸 Inglês Técnico.
-- ⚡ Curiosidade: Gosto de aprender instrumentos musicais, gosto ler até porque a vida não é feita só de livros técnicos, amo o mar e minha família.
+🔭 I'm currently looking for a job as a junior back-end software developer.
+💻 Today I work in sales.
+🌱 I'm currently improving my knowledge of TypeScript | NestJS | Database.
+👯 I'm looking to collaborate on projects that challenge me.
+🤔 I'm looking for help in TypeScript|NestJS.
+💬 Ask me at jonathanevescosta@gmail.com
+🔥 PGP public key 98A3 05EF 98CF CFC2
+🇧🇷 Native language.
+🇺🇸 Technical English.
+⚡ Curiosity: I like learning musical instruments, I like reading because life isn't just about technical books, I love the sea and my family.
+I am pleased to demonstrate my skills for the role of NestJs Backend Developer. With over 2 years of experience in the framework, I am confident in my ability to contribute to your team and help drive more projects forward.
 
-Tenho o prazer de demonstrar minhas habilidades para a função de Desenvolvedor Backend NestJs. Com mais de 2 anos de experiência no framework, estou confiante em minha capacidade de contribuir com sua equipe e ajudar a impulsionar mais projetos.
-
-Minha experiência reside na construção de sistemas de back-end escaláveis e eficientes usando a estrutura NestJS, que usei extensivamente ao longo da minha carreira dês da minha formação. Sou bem versado em TypeScript, Nestjs e me aprofundando no banco de dados. Além disso, tenho experiência na integração de várias APIs e serviços de terceiros para criar experiências de usuário perfeitas, já trabalhei com Dart/Flutter na construção de dois aplicativos que podem ser comprovados através dos links abaixo:
+My expertise lies in building scalable and efficient back-end systems using the NestJS framework, which I have used extensively throughout my career since my training. I'm well versed in TypeScript, Nestjs and digging deeper into the database. Furthermore, I have experience in integrating various third-party APIs and services to create seamless user experiences. I have worked with Dart/Flutter to build two applications that can be seen through the links below:
 
 App Kit Optica: https://play.google.com/store/apps/details?id=com.jonatasprogramador.calculadora_app&pli=1
 
-Se você me achou interessante, quer trocar uma ideia ou tem uma proposta de trabalho, manda uma mensagem.
+If you find me interesting, want to exchange an idea or have a job proposal, send me a message.
 
 <!DOCTYPE html>
 <html>
